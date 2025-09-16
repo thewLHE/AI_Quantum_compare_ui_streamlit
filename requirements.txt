@@ -1,0 +1,7 @@
+streamlit
+py3Dmol
+biopython
+numpy
+pandas
+matplotlib
+joblib

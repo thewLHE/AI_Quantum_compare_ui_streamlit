@@ -1,0 +1,5 @@
+# Pauli terms demo (comment lines start with #)
+-1.0 ZI
+-1.0 IZ
++0.5 XX
++0.5 YY
